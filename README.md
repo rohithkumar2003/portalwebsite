@@ -1,1 +1,1 @@
-# portalwebsite
+This repository contains a comprehensive College Portal application built using React and TypeScript. The project is designed to streamline the management and interaction between students, faculty, and administrative staff. Key features include user authentication, course registration, grade management, and communication tools.
